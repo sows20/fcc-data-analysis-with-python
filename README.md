@@ -1,6 +1,6 @@
 # fcc-data-analysis-with-python
 ## Context
-My 5 Data Analysis projects that I've built as part of my freeCodeCamp assignment.
+DATA ANALYSIS WITH PYTHON Projects from https://www.freecodecamp.org/
 <br>
 ## Overview
 The course notebooks and building these projects allowed me to obtain new skills and familiarize myself more with the Python's Data Analysis and visualization toolbox.
